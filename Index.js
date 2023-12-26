@@ -1,4 +1,7 @@
-import Head from 'next/head'
+//import from components sections
+
+
+import Head from 'next/head' 
 import Layout from '@/Components/Layout'
 import Image from 'next/image'
 import profilePic from "../../public/images/profile/developer-pic-1.png";
