@@ -8,6 +8,8 @@ import { LinkArrow } from '@/Components/Icon';
 import HireMe from '@/Components/HireMe';
 import Link from 'next/link';
 import AnimatedText from '@/Components/AnimatedText';
+
+
 export default function Home() {
   return (
     <>
