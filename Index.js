@@ -1,6 +1,5 @@
 //import from components sections
 
-
 import Head from 'next/head' 
 import Layout from '@/Components/Layout'
 import Image from 'next/image'
